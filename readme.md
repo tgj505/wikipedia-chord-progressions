@@ -11,16 +11,19 @@ Examples from wikipedia entries for some chord progressions
 
 ## Overview
 
-I taught on the [doo-wop progression](https://viva.pressbooks.pub/openmusictheory/chapter/4-chord-schemas/#chapter-1623-section-1) and thaught it'd be interesting to plot the examples given on wikipedia to gauge its usage. The dataset is pretty small, but is still useful.
-
-Essentially also a mini-project to help me learn virtual environments, .gitignore, git, and some offline practice with various packages' help files.
+I taught on the [doo-wop progression](https://viva.pressbooks.pub/openmusictheory/chapter/4-chord-schemas/#chapter-1623-section-1) and thaught it'd be interesting to plot the examples given on wikipedia to gauge its usage. The dataset is pretty small, but is still useful. Here's an example plot:
+![Wikipedia Doo-Wop Progression Example Plot](./visualizations/wiki-50s_progression_3.png)
 
 ## Running yourself
 - Clone the repo and install the required packages given in `requirements.txt`. Basically just Beautifulsoup, pandas, jupter notebook, and matplotlib and their requirements.
 - `main.ipynb` leads through basic usage of the functions, including outputting plots.
 
-There are pre-scraped .csv files and plots for some progressions already. Here's an example plot.
+There are pre-scraped .csv files and plots for three progressions already: "doo-wop", ["singer-songwriter"](https://viva.pressbooks.pub/openmusictheory/chapter/4-chord-schemas/#chapter-1623-section-2), and ["ōdō"](https://en.wikipedia.org/wiki/IV%E2%96%B37%E2%80%93V7%E2%80%93iii7%E2%80%93vi_progression).
 
-![Wikipedia Doo-Wop Progression Example Plot](./visualizations/wiki-50s_progression_3.png)
+![Wikipedia Singer-Songwriter Progression Example Plot](./visualizations/wiki-I-V-vi-IV_progression_3.png)
+![Wikipedia Doo-Wop Progression Example Plot](./visualizations/IV△7–V7–iii7–vi_progression_3.png)
+
+This was essentially also a mini-project to help me learn virtual environments, .gitignore, git, and some offline practice with various packages' help files.
+
 
 
