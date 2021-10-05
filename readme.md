@@ -2,10 +2,11 @@
 
 <p align=center>
 Examples from wikipedia entries for some chord progressions
+<img src='https://tomgjohnson.files.wordpress.com/2019/06/cat_guitar.png?w=250&h=250' alt="guitar_cat">
 </p>
-<p align=center>
-<img width="200" src="https://tomgjohnson.files.wordpress.com/2019/06/cat_guitar.png" alt="guitar_cat">
-</p>
+
+![guitar-cat](https://tomgjohnson.files.wordpress.com/2019/06/cat_guitar.png?w=250&h=250)
+
 
 ## Overview
 
@@ -19,6 +20,6 @@ Essentially also a mini-project to help me learn virtual environments, .gitignor
 
 There are pre-scraped .csv files and plots for some progressions already. Here's an example plot.
 
-![Gender Bias](./visualizations/wiki-50s_progression_3.png)
+![Wikipedia Doo-Wop Progression Example Plot](./visualizations/wiki-50s_progression_3.png)
 
 
