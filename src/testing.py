@@ -1,6 +1,13 @@
+"""
+Drafting for the main notebook
+"""
+
+
+"""
 import matplotlib.pyplot as plt
+from pandas import read_csv
 from src.plotting_functions import plot_bar_with_rolling_mean
-from src.data_loading import load_table_csv, get_year_list
+from src.data_loading import get_year_list
 from src.database_building_functions import scrape_wiki_table
 from config.config import DATA_PATH
 
@@ -17,7 +24,7 @@ scrape_wiki_table(site=site, output_path=csv_path)
 
 
 # load and format the data to graph:
-df = load_table_csv(csv_path)
+df = read_csv(csv_path)
 year_list = get_year_list(df)
 
 # add bar of song count along with the rolling mean of +=n years
@@ -25,8 +32,5 @@ ax1 = plot_bar_with_rolling_mean(year_list, n=3, progression_name=str(csv_path).
 
 # display/save
 plt.show()
-
-
-
-
+"""
 
