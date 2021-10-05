@@ -2,10 +2,11 @@
 
 <p align=center>
 Examples from wikipedia entries for some chord progressions
-<img src='https://tomgjohnson.files.wordpress.com/2019/06/cat_guitar.png?w=250&h=250' alt="guitar_cat">
+</p>
+<p align=center>
+<img src='https://tomgjohnson.files.wordpress.com/2019/06/cat_guitar.png?w=350&h=350' alt="guitar_cat">
 </p>
 
-![guitar-cat](https://tomgjohnson.files.wordpress.com/2019/06/cat_guitar.png?w=250&h=250)
 
 
 ## Overview
