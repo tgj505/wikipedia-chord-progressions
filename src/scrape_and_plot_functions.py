@@ -26,8 +26,6 @@ def scrape_wiki_table(site, output_path):
     # convert list to dataframe: https://stackoverflow.com/questions/66824674/scraping-wikipedia-table-what-am-i-missing-pandas-beautiful-soup
     # need to retain the links for artists and songs somehow (2021-09-19)
     # need to add columns for genres....somehow get the link from each song/artist to get their genres
-    print(soup)
-    print(site_table)
     df = pd.read_html(str(site_table))
     df = pd.DataFrame(df[0])
 

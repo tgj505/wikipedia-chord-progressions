@@ -6,9 +6,7 @@ Drafting for the main notebook
 """
 import matplotlib.pyplot as plt
 from pandas import read_csv
-from src.plotting_functions import plot_bar_with_rolling_mean
-from src.data_loading import get_year_list
-from src.database_building_functions import scrape_wiki_table
+from src.scrape_and_plot_functions import plot_bar_with_rolling_mean, get_year_list, scrape_wiki_table
 from config.config import DATA_PATH
 
 
