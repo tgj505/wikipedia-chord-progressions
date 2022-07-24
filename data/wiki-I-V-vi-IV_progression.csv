@@ -1,110 +1,130 @@
-,Song title,Artist,Year,Progression,Recorded Key,Unnamed: 5
-0,"""10,000 Reasons (Bless the Lord)""[18]",Matt Redman and Jonas Myrin,2012,IV-I-V-vi,G major,
-1,"""20 Good Reasons""[19]",Thirsty Merc,2007,I-V-vi-IV,Db major,
-2,"""Aicha""[20]",Cheb Khaled,1996,vi-IV-I-V,G minor,
-3,"""Almost""[21]",Bowling for Soup,2005,I-V-vi-IV,B major,
-4,"""Amaranth""[22]",Nightwish,2007,vi-IV-I-V,D minor,
-5,"""Amaranthine""[23]",Amaranthe,2011,vi-IV-I-V,D# minor,
-6,"""A New Day Has Come""[24]",Celine Dion,2002,vi-IV-I-V,D# minor,
-7,"""Bad Blood""[25]",Taylor Swift,2014,IV-I-V-vi,E minor,
-8,"""Beast of Burden""[26]",The Rolling Stones,1978,I-V-vi-IV,E major,
-9,"""Bullet""[27]",Hollywood Undead,2011,I-V-vi-IV,E major,
-10,"""Bullet with Butterfly Wings""[28]",The Smashing Pumpkins,1995,vi-IV-I-V,Bb minor,
-11,"""California King Bed""[29]",Rihanna,2011,I-V-vi-IV,G major,
-12,"""Caramelldansen""[30]",Caramell,2001,I-V-vi-IV,D# major/F# major,
-13,"""Clean""[31]",Taylor Swift,2014,I-V-vi-IV,B major,
-14,"""Come Over""[32]",Kenny Chesney,2012,vi-IV-I-V,Bb minor,
-15,"""Cruise""[33]",Florida Georgia Line,2012,I-V-vi-IV,Bb major,
-16,"""Cryin'""[34]",Aerosmith,1993,I-V-vi-IV,A major (chorus),
-17,"""Daddy DJ""[35]",Daddy DJ,1999,vi-IV-I-V,C minor,
-18,"""Dammit""[26][36]",Blink-182,1997,I-V-vi-IV,C major,
-19,"""Demons""[37]",Imagine Dragons,2012,I-V-vi-IV,Eb major,
-20,"""Despacito""[38]",Luis Fonsi,2017,vi-IV-I-V,B minor,
-21,"""Don't Forget Me""[39]",Red Hot Chili Peppers,2002,vi-IV-I-V,A minor,
-22,"""Don't Trust Me""[40]",3OH!3,2008,vi-IV-I-V,Bb major,
-23,"""Don't You Wanna Stay""[41]",Jason Aldean and Kelly Clarkson,2010,vi-IV-I-V,G# minor,
-24,"""Dragostea Din Tei""[42]",O-Zone,2003,IV-I-V-vi; vi-IV-I-V,A minor,
-25,"""Dream Catch Me""[43]",Newton Faulkner,2007,I-V-vi-IV,D major,
-26,"""Drive By""[44]",Train,2012,vi-IV-I-V; IV-I-V-vi,C# minor,
-27,"""Electrical Storm""[45]",U2,2002,vi-IV-I-V,F# minor,
-28,"""Feeling This""[26][46]",Blink-182,2003,I-V-vi-IV,E major,
-29,"""Flashlight""[47]",Jessie J,2015,I-V-vi-IV,F major,
-30,"""For the First Time""[48]",The Script,2010,I-V-vi-IV,A major,
-31,"""Forever Young""[49]",Alphaville,1984,I-V-vi-IV,C major,
-32,"""Fuckin' Perfect""[50]",P!nk,2010,I-V-vi-IV,G major,
-33,"""Give Me Everything""[51]","Pitbull feat. Ne-Yo, Afrojack, and Nayer",2011,vi-IV-I-V,Eb major,
-34,"""Glycerine""[52]",Bush,1994,I-V-vi-IV,F major,
-35,"""Great Romances of the 20th Century""[53]",Taking Back Sunday,2002,vi-IV-I-V,G# minor,
-36,"""Hair""[54]",Lady Gaga,2011,I-V-vi-IV,F major,
-37,"""Hall of Fame""[55]",The Script feat. will.i.am,2012,vi-IV-I-V,G minor,
-38,"""Happy Ending""[56]",Mika,2007,I-V-vi-IV,Db major,
-39,"""Heart Attack""[57]",Demi Lovato,2013,IV-I-V-vi; vi-IV-I-V,F minor,
-40,"""Hello""[58]",Adele,2015,vi-I-V-IV (verse)vi-IV-I-V (chorus),F minor,
-41,"""Hey Brother""[59]",Avicii,2013,vi-IV-I-V,G minor,
-42,"""Hide and Seek""[60]",Imogen Heap,2005,I-V-vi-IV,A major,
-43,"""Home""[61]",Phillip Phillips,2012,IV-I-V-vi; vi-IV-I-V,C major,
-44,"""If I Were a Boy""[62]",Beyoncé,2008,vi-IV-I-V,D# minor,
-45,"""I Just Had Sex""[63]",The Lonely Island feat. Akon,2011,vi-IV-I-V,D# minor,
-46,"""I'm Goin' Down[64]",Bruce Springsteen,1985,I-V-vi-IV,Bb major,
-47,"""I'm Yours""[65]",Jason Mraz,2008,I-V-vi-IV,E major,
-48,"""In My Head""[66]",Jason Derulo,2009,vi-IV-I-V,C minor,
-49,"""International Love""[67]",Pitbull feat. Chris Brown,2011,vi-IV-I-V,C minor,
-50,"""In This River""[68]",Black Label Society,2005,vi-IV-I-V,E minor,
-51,"""I Was Here""[69]",Beyoncé,2011,vi-IV-I-V,E minor,
-52,"""Just a Dream""[70]",Nelly,2010,vi-IV-I-V,D# minor,
-53,"""Lemonade""[71]",Alexandra Stan,2011,vi-IV-I-V,F# minor,
-54,"""Little Talks""[72]",Of Monsters and Men,2011,vi-IV-I-V,Bb minor,
-55,"""Love Me""[73]",Justin Bieber,2009,vi-IV-I-V,C minor,
-56,"""Love the Way You Lie""[74]",Eminem feat. Rihanna,2010,vi-IV-I-V,G minor,
-57,"""Marilyn Monroe""[75]",Nicki Minaj,2012,vi-IV-I-V,E minor,
-58,"""My Name Is Jonas""[76]",Weezer,1994,I-V-vi-IV,B major,
-59,"""Nobody's Perfect""[77]",Hannah Montana (Miley Cyrus),2007,vi-IV-I-V,C minor,
-60,"""No One""[78]",Alicia Keys,2007,I-V-vi-IV,E major,
-61,"""No Woman, No Cry""[79]",Bob Marley,1973,I-V-vi-IV,Db major,
-62,"""Not Afraid""[80]",Eminem,2010,vi-IV-I-V,C minor,
-63,"""Numb""[81]",Linkin Park,2003,vi-IV-I-V,F# minor,
-64,"""One Day""[82]",Matisyahu,2008,I-V-vi-IV,C major,
-65,"""One of Us""[3][83]",Joan Osborne,1995,vi-IV-I-V,F# minor,
-66,"""On the Floor""[84]",Jennifer Lopez feat. Pitbull,2011,vi-IV-I-V,D# minor,
-67,"""Otherside""[85]",Red Hot Chili Peppers,2000,vi-IV-I-V,E minor,
-68,"""Out of the Woods""[86]",Taylor Swift,2014,I-V-vi-IV,A minor,
-69,"""Peace of Mind""[87]",Boston,1976,vi-IV-I-V,C# minor,
-70,"""Pieces""[88]",Sum 41,2005,vi-IV-I-V,D minor,
-71,"""Poker Face""[89]",Lady Gaga,2008,vi-IV-I-V,G# minor,
-72,"""Pork and Beans""[90]",Weezer,2008,I-V-vi-IV,F# major,
-73,"""Prison Bound""[91]",Social Distortion,1988,I-V-vi-IV,F# major,
-74,"""Ready or Not""[92]",Bridgit Mendler,2012,vi-IV-I-V,B minor,
-75,"""Replay""[93]",Iyaz,2009,vi-IV-I-V,F# minor,
-76,"""Rise""[94]",McClain Sisters,2012,vi-IV-I-V,B minor,
-77,"""Save Tonight""[95]",Eagle Eye Cherry,1997,vi-IV-I-V,C major,
-78,"""Say Something""[96]",A Great Big World,2013,vi-IV-I-V,B minor,
-79,"""Scar""[97]",Missy Higgins,2004,I-V-vi-IV,C major,
-80,"""Self Esteem""[2][98]",The Offspring,1994,vi-IV-I-V,C major,
-81,"""Silverflame""[99]",Dizzy Mizz Lizzy,1994,vi-IV-I-V,G minor,
-82,"""Since You Been Gone""[100]",Russ Ballard,1976,I-V-vi-IV,G major,
-83,"""Six Degrees of Separation""[101]",The Script,2012,vi-IV-I-V,C# minor,
-84,"""Snow (Hey Oh)""[102]",Red Hot Chili Peppers,2006,vi-IV-I-V; I-V-vi-IV,B major/G# minor,
-85,"""Soul To Squeeze""[103]",Red Hot Chili Peppers,1993,I-V-vi-IV,F major,
-86,"""Sparks Fly""[104]",Taylor Swift,2011,vi-IV-I-V,D minor,
-87,"""Stand""[105]",Rascal Flatts,2007,vi-IV-I-V,A minor,
-88,"""Stronger (What Doesn't Kill You)""[106]",Kelly Clarkson,2012,vi-IV-I-V,A minor,
-89,"""Take on Me""[107]",Aha,1984,I-V-vi-IV,A major,
-90,"""Tangled Up in Me""[108]",Skye Sweetnam,2004,V-vi-IV-I,C major,
-91,"""The Edge of Glory""[109]",Lady Gaga,2011,I-V-vi-IV,A major,
-92,"""The Kids Aren't Alright""[110]",The Offspring,1999,vi-IV-I-V,Bb minor,
-93,"""The Rock Show""[111]",Blink-182,2001,vi-IV-I-V (bridge),A major/F# minor,
-94,"""(There's Gotta Be) More to Life""[112]",Stacie Orrico,2003,vi-IV-I-V,F minor,
-95,"""To Know Him Is to Love Him""[113]",The Teddy Bears,1958,I-V-vi-IV,D major,
-96,"""Try""[114]",P!nk,2012,IV-I-V-vi; vi-IV-I-V,D major/B minor,
-97,"""Tuesday's Gone""[115]",Lynyrd Skynyrd,1973,I-V-vi-IV,A major,
-98,"""We Found Love""[116]",Rihanna feat. Calvin Harris,2011,vi-IV-I-V,D# minor,
-99,"""What About Now""[117]",Lonestar,2000,I-V-vi-IV,E major,
-100,"""What Would I Change It To""[118]",Avicii & AlunaGeorge,2017,I-V-vi-IV,B major,
-101,"""What's My Age Again?""[119]",Blink-182,1999,IV-I-V-vi; I-V-vi-IV,F# major,
-102,"""When Can I See You Again?""[120]",Owl City,2012,I-V-vi-IV,D major,
-103,"""When I Come Around""[121]",Green Day,1993,I-V-vi-IV,F# major,
-104,"""Wherever You Will Go""[122]",The Calling,2001,I-V-vi-IV,D major,
-105,"""Whistle""[123]",Flo Rida,2012,vi-IV-I-V,A minor,
-106,"""Who You Are""[124]",Jessie J,2011,vi-IV-I-V,F# minor,
-107,"""You'll Think Of Me""[125]",Keith Urban,2004,I-V-vi-IV; vi-IV-I-V,A major/F# minor,
-108,"""You're Not Sorry""[126]",Taylor Swift,2008,vi-IV-I-V,D# minor,
+,Song title,Artist,Year,Progression,Recorded Key
+0,"""10,000 Reasons (Bless the Lord)""[19]",Matt Redman and Jonas Myrin,2012,IV-I-V-vi,G major
+1,"""20 Good Reasons""[20]",Thirsty Merc,2007,I-V-vi-IV,Db major
+2,"""Africa""[21]",Toto,1982,vi−IV-I-V (chorus),F# minor (chorus)
+3,"""Aicha""[22]",Cheb Khaled,1996,vi-IV-I-V,G minor
+4,"""Ai Se Eu Te Pego""[23]",Michel Teló,2011,I-V-vi-IV,B major
+5,"""Almost""[24]",Bowling for Soup,2005,I-V-vi-IV,B major
+6,"""Amaranth""[25]",Nightwish,2007,vi-IV-I-V,D minor
+7,"""A New Day Has Come""[26]",Celine Dion,2002,vi-IV-I-V,D# minor
+8,"""Apologize""[27]",Timbaland and OneRepublic,2007,vi-IV-I-V,C minor
+9,"""As If It's Your Last""[28]",Blackpink,2017,IV−I−V−vi (chorus),Ab major (chorus)
+10,"""Bad Blood""[29]",Taylor Swift,2014,IV-I-V-vi,E minor
+11,"""Bailando""[30]",Enrique Iglesias feat. Descemer Bueno and Gente de Zona,2014,vi-IV-I-V,E minor
+12,"""Beast of Burden""[31]",The Rolling Stones,1978,I-V-vi-IV,E major
+13,"""I Don't Want To Be""[32]",Gavin DeGraw,2003,IV-I-V-vi (chorus),Eb major
+14,"""Bullet""[33]",Hollywood Undead,2011,I-V-vi-IV,E major
+15,"""Bullet with Butterfly Wings""[34]",The Smashing Pumpkins,1995,vi-IV-I-V,Bb minor
+16,"""California King Bed""[35]",Rihanna,2011,I-V-vi-IV,G major
+17,"""Caramelldansen""[36]",Caramell,2001,I-V-vi-IV,D# major/F# major
+18,"""Check Yes Juliet (Run Baby Run)""[37]",We the Kings,2008,vi−I−IV−V (chorus),D major
+19,"""Clean""[38]",Taylor Swift,2014,I-V-vi-IV,B major
+20,"""Come Over""[39]",Kenny Chesney,2012,vi-IV-I-V,Bb minor
+21,"""Cruise""[40]",Florida Georgia Line,2012,I-V-vi-IV,Bb major
+22,"""Cryin'""[41]",Aerosmith,1993,I-V-vi-IV,A major (chorus)
+23,"""Daddy DJ""[42]",Daddy DJ,1999,vi-IV-I-V,C minor
+24,"""Dammit""[31][43]",Blink-182,1997,I-V-vi-IV,C major
+25,"""Despacito""[44]",Luis Fonsi,2017,vi-IV-I-V,B minor
+26,"""Don't Trust Me""[45]",3OH!3,2008,vi-IV-I-V,Bb major
+27,"""Don't You Wanna Stay""[46]",Jason Aldean and Kelly Clarkson,2010,vi-IV-I-V,G# minor
+28,"""Dragostea Din Tei""[47]",O-Zone,2003,IV-I-V-vi; vi-IV-I-V,A minor
+29,"""Dream Catch Me""[48]",Newton Faulkner,2007,I-V-vi-IV,D major
+30,"""Drive By""[49]",Train,2012,vi-IV-I-V; IV-I-V-vi,C# minor
+31,"""Electrical Storm""[50]",U2,2002,vi-IV-I-V,F# minor
+32,"""Faded""[51]",Alan Walker,2015,vi-IV-I-V,D# minor
+33,"""Feeling This""[31][52]",Blink-182,2003,I-V-vi-IV,E major
+34,"""Flashlight""[53]",Jessie J,2015,I-V-vi-IV,F major
+35,"""For the First Time""[54]",The Script,2010,I-V-vi-IV,A major
+36,"""Forever Young""[55]",Alphaville,1984,I-V-vi-IV,C major
+37,"""Fuckin' Perfect""[56][57]",P!nk,2010,I-V-vi-IV,G major
+38,"""Girls Chase Boys""[58]",Ingrid Michaelson,2014,I−IV−vi−V,Ab major
+39,"""Give Me Everything""[59]","Pitbull feat. Ne-Yo, Afrojack, and Nayer",2011,vi-IV-I-V,Eb major
+40,"""Glycerine""[60]",Bush,1995,I-V-vi-IV,F major
+41,"""Going Away to College""[61]",Blink-182,1999,vi-IV-I-V (chorus),B major
+42,"""Hair""[62]",Lady Gaga,2011,I-V-vi-IV,F major
+43,"""Hall of Fame""[63]",The Script feat. will.i.am,2012,vi-IV-I-V,G minor
+44,"""Happy Ending""[64]",Mika,2007,I-V-vi-IV,Db major
+45,"""Heart Attack""[65]",Demi Lovato,2013,IV-I-V-vi; vi-IV-I-V,F minor
+46,"""Hello""[66]",Adele,2015,vi-I-V-IV (verse)vi-IV-I-V (chorus),F minor
+47,"""Hey Brother""[67]",Avicii,2013,vi-IV-I-V,G minor
+48,"""Hide and Seek""[68]",Imogen Heap,2005,I-V-vi-IV,A major
+49,"""Home""[69]",Phillip Phillips,2012,IV-I-V-vi; vi-IV-I-V,C major
+50,"""Hwaa""[70]",(G)I-dle,2021,vi−IV−I−V,F# minor
+51,"""If I Were a Boy""[71]",Beyoncé,2008,vi-IV-I-V,D# minor
+52,"""I Just Had Sex""[72]",The Lonely Island feat. Akon,2011,vi-IV-I-V,D# minor
+53,"""I'm Goin' Down[73]",Bruce Springsteen,1985,I-V-vi-IV,Bb major
+54,"""I'm Yours""[74]",Jason Mraz,2008,I-V-vi-IV,B major
+55,"""In My Head""[75]",Jason Derulo,2009,vi-IV-I-V,C minor
+56,"""International Love""[76]",Pitbull feat. Chris Brown,2011,vi-IV-I-V,C minor
+57,"""In This River""[77]",Black Label Society,2005,vi-IV-I-V,E minor
+58,"""I Need Your Love""",Calvin Harris,2013,vi-IV-I-V,C minor
+59,"""I Was Here""[78]",Beyoncé,2011,vi-IV-I-V,E minor
+60,"""Just a Dream""[79]",Nelly,2010,vi-IV-I-V,D# minor
+61,"""Lemonade""[80]",Alexandra Stan,2011,vi-IV-I-V,F# minor
+62,"""Let it Be""[81]",The Beatles,1970,I-V-vi-IV,C major
+63,"""Little Talks""[82]",Of Monsters and Men,2011,vi-IV-I-V,Bb minor
+64,"""Love[83]",Lana Del Rey,2017,"I-V-vi-IV (intro, verse, and chorus)",Bb major
+65,"""Love Me""[84]",Justin Bieber,2009,vi-IV-I-V,C minor
+66,"""Love the Way You Lie""[85]",Eminem feat. Rihanna,2010,vi-IV-I-V,G minor
+67,"""Marilyn Monroe""[86]",Nicki Minaj,2012,vi-IV-I-V,E minor
+68,"""My Name Is Jonas""[87]",Weezer,1994,I-V-vi-IV,B major
+69,"""Nobody's Perfect""[88]",Hannah Montana (Miley Cyrus),2007,vi-IV-I-V,C minor
+70,"""No One""[89]",Alicia Keys,2007,I-V-vi-IV,E major
+71,"""No Woman, No Cry""[90]",Bob Marley,1973,I-V-vi-IV,Db major
+72,"""Not Afraid""[91]",Eminem,2010,vi-IV-I-V,C minor
+73,"""Nothing""[92]",The Script,2010,I-V-vi-IV (chorus),B major
+74,"""Numb""[93]",Linkin Park,2003,vi-IV-I-V,F# minor
+75,"""One Day""[94]",Matisyahu,2008,I-V-vi-IV,C major
+76,"""One of Us""[3][95]",Joan Osborne,1995,vi-IV-I-V,F# minor
+77,"""On the Floor""[96]",Jennifer Lopez feat. Pitbull,2011,vi-IV-I-V,D# minor
+78,"""Otherside""[97]",Red Hot Chili Peppers,2000,vi-IV-I-V,E minor
+79,"""Out of the Woods""[98]",Taylor Swift,2014,I-V-vi-IV,A minor
+80,"""Peace of Mind""[99]",Boston,1976,vi-IV-I-V,C# minor
+81,"""Pieces""[100]",Sum 41,2005,vi-IV-I-V,D minor
+82,"""Poker Face""[101]",Lady Gaga,2008,vi-IV-I-V,G# minor
+83,"""Pork and Beans""[102]",Weezer,2008,I-V-vi-IV,F# major
+84,"""Prison Bound""[103]",Social Distortion,1988,I-V-vi-IV,F# major
+85,"""Ready or Not""[104]",Bridgit Mendler,2012,vi-IV-I-V,B minor
+86,"""Replay""[105]",Iyaz,2009,vi-IV-I-V,F# minor
+87,"""Rise""[106]",McClain Sisters,2012,vi-IV-I-V,B minor
+88,"""Rockstars""[107]",Malik Harris,2022,I-V-vi-IV,G major
+89,"""Roly-Poly""[108]",T-ARA,2011,vi-IV-I-V,A minor
+90,"""Save Tonight""[109]",Eagle Eye Cherry,1997,vi-IV-I-V,C major
+91,"""Say Something""[110]",A Great Big World,2013,vi-IV-I-V,B minor
+92,"""Scar""[111]",Missy Higgins,2004,I-V-vi-IV,C major
+93,"""Self Esteem""[2]",The Offspring,1994,vi-IV-I-V,A minor
+94,"""Since You Been Gone""[112]",Russ Ballard,1976,I-V-vi-IV,G major
+95,"""Six Degrees of Separation""[113]",The Script,2012,vi-IV-I-V,C# minor
+96,"""Snow (Hey Oh)""[114]",Red Hot Chili Peppers,2006,vi-IV-I-V,B major/G# minor
+97,"""Soul To Squeeze""[115]",Red Hot Chili Peppers,1993,I-V-vi-IV,F major
+98,"""Sparks Fly""[116]",Taylor Swift,2011,vi-IV-I-V,D minor
+99,"""Stand""[117]",Rascal Flatts,2007,vi-IV-I-V,A minor
+100,"""Stereo Hearts""[118]",Gym Class Heroes,2011,vi-IV-I-V,F# minor
+101,"""Stronger (What Doesn't Kill You)""[119]",Kelly Clarkson,2012,vi-IV-I-V,A minor
+102,"""Take On Me""[120]",Aha,1984,I-V-vi-IV,A major
+103,"""Take You Down""[121]",Illenium,2018,vi-IV-I-V,B major
+104,"""Tangled Up in Me""[122]",Skye Sweetnam,2004,I-V-vi-IV,C major
+105,"""The Edge of Glory""[123]",Lady Gaga,2011,I-V-vi-IV,A major
+106,"""The Kids Aren't Alright""[124]",The Offspring,1999,vi-IV-I-V,Bb minor
+107,"""The Rock Show""[125]",Blink-182,2001,vi-IV-I-V (bridge),A major/F# minor
+108,"""The Spectre""[126]",Alan Walker,2017,vi-IV-I-V,C# minor
+109,"""(There's Gotta Be) More to Life""[127]",Stacie Orrico,2003,vi-IV-I-V,F minor
+110,"""To Know Him Is to Love Him""[4]",The Teddy Bears,1958,I-V-vi-IV,D major
+111,"""Try""[128]",P!nk,2012,IV-I-V-vi; vi-IV-I-V,D major/B minor
+112,"""Tuesday's Gone""[129]",Lynyrd Skynyrd,1973,I-V-vi-IV,A major
+113,"""Up""[130]",Olly Murs featuring Demi Lovato,2014,IV−I−V−vi (chorus),A major
+114,"""Wannabe""[131]",Itzy,2020,IV-I-V-vi,F# minor/A major
+115,"""We Found Love""[132]",Rihanna feat. Calvin Harris,2011,vi-IV-I-V,D# minor
+116,"""What About Now""[133]",Lonestar,2000,I-V-vi-IV,E major
+117,"""What Would I Change It To""[134]",Avicii & AlunaGeorge,2017,I-V-vi-IV,B major
+118,"""What's My Age Again?""[135]",Blink-182,1999,IV-I-V-vi; I-V-vi-IV,F# major
+119,"""When Can I See You Again?""[136]",Owl City,2012,I-V-vi-IV,D major
+120,"""When I Come Around""[137]",Green Day,1993,I-V-vi-IV,F# major
+121,"""Wherever You Will Go""[138]",The Calling,2001,I-V-vi-IV,D major
+122,"""Where'd You Go""[139]",Fort Minor feat. Holly Brook and Jonah Matranga,2006,I-V-vi-IV,E major
+123,"""Whistle""[140]",Flo Rida,2012,vi-IV-I-V,A minor
+124,"""Who You Are""[141]",Jessie J,2011,vi-IV-I-V,F# minor
+125,"""You Found Me""[142]",The Fray,2008,vi-IV-I-V,G# minor
+126,"""You'll Think Of Me""[143]",Keith Urban,2004,I-V-vi-IV; vi-IV-I-V,A major/F# minor
+127,"""You're Not Sorry""[144]",Taylor Swift,2008,vi-IV-I-V,D# minor
+128,"""Zombie""[145]",The Cranberries,1994,vi-IV-I-V,E minor

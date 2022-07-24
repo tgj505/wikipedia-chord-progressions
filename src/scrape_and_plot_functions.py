@@ -23,6 +23,8 @@ def scrape_wiki_table(site, output_path):
     site_table = soup.find('table', {'class': 'wikitable sortable'})
     if site_table == None:
         site_table = soup.find('table', {'class': 'sortable wikitable'})
+        if site_table == None:
+            site_table = soup.find('table', {'class': 'wikitable sortable mw-collapsible'})
     # convert list to dataframe: https://stackoverflow.com/questions/66824674/scraping-wikipedia-table-what-am-i-missing-pandas-beautiful-soup
     # need to retain the links for artists and songs somehow (2021-09-19)
     # need to add columns for genres....somehow get the link from each song/artist to get their genres
