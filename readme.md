@@ -15,7 +15,7 @@ I taught on the [doo-wop progression](https://viva.pressbooks.pub/openmusictheor
 ![Wikipedia Doo-Wop Progression Example Plot](./visualizations/wiki-50s_progression_3.png)
 
 ## Running yourself
-- Clone the repo and install the required packages given in `requirements.txt`. Basically just Beautifulsoup, pandas, jupter notebook, and matplotlib and their requirements.
+- Clone the repo and install the required packages given in `requirements.txt`, essentially BeautifulSoup, pandas, Jupyter notebook, and matplotlib, along with their requirements.
 - `main.ipynb` leads through basic usage of the functions, including outputting plots.
 
 There are pre-scraped .csv files and plots for three progressions already: "doo-wop", ["singer-songwriter"](https://viva.pressbooks.pub/openmusictheory/chapter/4-chord-schemas/#chapter-1623-section-2), and ["ōdō"](https://en.wikipedia.org/wiki/IV%E2%96%B37%E2%80%93V7%E2%80%93iii7%E2%80%93vi_progression).
