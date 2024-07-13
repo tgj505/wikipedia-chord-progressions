@@ -11,7 +11,7 @@ Examples from wikipedia entries for some chord progressions
 
 ## Overview
 
-I taught on the [doo-wop progression](https://viva.pressbooks.pub/openmusictheory/chapter/4-chord-schemas/#chapter-1623-section-1) and thaught it'd be interesting to plot the examples given on wikipedia to gauge its usage. The dataset is pretty small, but is still useful. Here's an example plot:
+I taught on the [doo-wop progression](https://viva.pressbooks.pub/openmusictheory/chapter/4-chord-schemas/#chapter-1623-section-1) and thought a timeseries plot ofr examples given on wikipedia might be interesteing to gauge the progression's usage. The dataset is pretty small, but is still useful. Here's an example plot:
 ![Wikipedia Doo-Wop Progression Example Plot](./visualizations/wiki-50s_progression_3.png)
 
 ## Running yourself
@@ -23,7 +23,7 @@ There are pre-scraped .csv files and plots for three progressions already: "doo-
 ![Wikipedia Singer-Songwriter Progression Example Plot](./visualizations/wiki-I-V-vi-IV_progression_3.png)
 ![Wikipedia Doo-Wop Progression Example Plot](./visualizations/IV△7–V7–iii7–vi_progression_3.png)
 
-This was essentially also a mini-project to help me learn virtual environments, .gitignore, git, and some offline practice with various packages' help files.
+A useful mini-project to help me learn virtual environments, .gitignore, git, and some offline practice with various packages' help files.
 
 
 
